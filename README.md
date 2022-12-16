@@ -26,9 +26,8 @@ As a developer, I want a codebase that follows accessibility standards to ensure
 For the project to run properly, it is recommended to clone the repository into a directory from github with SSHkey or HTTPS.
 The files should include a README, index.html and an assets folder, containing images and the CSS file.
 
-## Screenshot
-
-![deployedurl](gabetuason/assignment1_horiseon/assets/images/screenshot.png)
+## Deployed url
+https://gabetuason.github.io/assignment1_horiseon/
 
 ## Credits
 
