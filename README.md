@@ -26,6 +26,10 @@ As a developer, I want a codebase that follows accessibility standards to ensure
 For the project to run properly, it is recommended to clone the repository into a directory from github with SSHkey or HTTPS.
 The files should include a README, index.html and an assets folder, containing images and the CSS file.
 
+## Screenshot
+
+assets/images/screenshot.png
+
 ## Credits
 
 Xandromus for the starter code and assets. https://github.com/coding-boot-camp/urban-octo-telegram.git
