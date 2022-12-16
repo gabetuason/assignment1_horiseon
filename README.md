@@ -28,7 +28,7 @@ The files should include a README, index.html and an assets folder, containing i
 
 ## Screenshot
 
-![deployedurl](assets/images/screenshot.png)
+![deployedurl](gabetuason/assignment1_horiseon/assets/images/screenshot.png)
 
 ## Credits
 
