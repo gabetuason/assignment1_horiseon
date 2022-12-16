@@ -28,7 +28,7 @@ The files should include a README, index.html and an assets folder, containing i
 
 ## Screenshot
 
-![deployed url](https://gabetuason.github.io/assignment1_horiseon/))
+![deployedurl](https://gabetuason.github.io/assignment1_horiseon/)
 
 ## Credits
 
