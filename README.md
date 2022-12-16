@@ -28,7 +28,7 @@ The files should include a README, index.html and an assets folder, containing i
 
 ## Screenshot
 
-assets/images/screenshot.png
+./assets/images/screenshot.png
 
 ## Credits
 
