@@ -27,7 +27,7 @@ For the project to run properly, it is recommended to clone the repository into 
 The files should include a README, index.html and an assets folder, containing images and the CSS file.
 
 ## Deployed url
-https://gabetuason.github.io/assignment1_horiseon/
+https://gabetuason.github.io/horiseon_website/
 
 ## Credits
 
